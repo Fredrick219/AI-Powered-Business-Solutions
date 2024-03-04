@@ -1,4 +1,5 @@
 # AI-Powered Business Solutions
+![Example Image](app_example.png)
 
 This project harnesses the power of artificial intelligence to provide innovative solutions across various business domains, including Customer Support Knowledge Base, Compliance and Regulatory Guidance, Market Research and Competitive Analysis, and Legal Document Analysis. By integrating advanced AI capabilities, the project aims to streamline operations, enhance efficiency, and deliver accurate insights in critical business functions.
 
